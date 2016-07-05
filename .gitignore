@@ -17,25 +17,16 @@ gen/
 .gradle/
 build/
 
-# User-specific stuff:
-.idea/workspace.xml
-.idea/tasks.xml
-.idea/dictionaries
-
-# Sensitive or high-churn files:
-.idea/dataSources.ids
-.idea/dataSources.xml
-.idea/sqlDataSources.xml
-.idea/dynamic.xml
-.idea/uiDesigner.xml
-
-# Gradle:
-.idea/gradle.xml
-.idea/libraries
+# Intellij IDEA (see https://intellij-support.jetbrains.com/entries/23393067)
+.idea/
 
 # Eclipse/Android/Misc
 .metadata/
 local.properties
 *.DS_Store
 proguard/
+
+# swap files
+*~
+*.swp
 
